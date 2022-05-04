@@ -2,4 +2,8 @@ function b()
 
 function a()
 
+<<<<<<< HEAD
 
+=======
+function c()
+>>>>>>> exp
